@@ -1,2 +1,2 @@
 # Info-Cyber
-information about cybersecurity
+Information about cybersecurity. Each menmber of the Team is responsible in contributing towards the forum 
